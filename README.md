@@ -4,7 +4,7 @@ Evgenii Evlampev, B20-AI, e.evlampev@innopolis.university
 
 ## 1. Data
 
-I used the same data from previous assignmen - 200 photos of both dogs and cats from this dataset:
+I used the same data from the previous assignment - 200 photos of both dogs and cats from this dataset:
 [https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset)
 
 ## 2. Annotating 
